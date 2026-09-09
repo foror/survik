@@ -1,4 +1,4 @@
-At the beginning of each text file (or variable of String type), a control byte is stored:
+At the beginning of each text file (or variable of String type), a control first byte is stored:
 
 **0-3** bits indicate the Windows-CP125x encoding (9 variants)
 
